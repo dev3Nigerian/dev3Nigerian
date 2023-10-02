@@ -8,7 +8,7 @@
 
 🧰 Toolbox
 
-<a href="https://cdnlogo.com/logo/nodejs-icon_39488.html"><img src="https://www.cdnlogo.com/logos/n/94/nodejs-icon.svg"></a>
+<a href="https://cdnlogo.com/logo/nodejs-icon_39488.html"><img src="https://www.cdnlogo.com/logos/n/94/nodejs-icon.svg" height="50" width="50"></a>
 <a href="https://cdnlogo.com/logo/javascript_18196.html"><img src="https://www.cdnlogo.com/logos/j/44/javascript.svg"></a>
 <a href="https://cdnlogo.com/logo/html-5_8516.html"><img src="https://www.cdnlogo.com/logos/h/90/html-5.svg"></a>
 <a href="https://cdnlogo.com/logo/css_36679.html"><img src="https://www.cdnlogo.com/logos/c/18/css.svg"></a>
@@ -20,9 +20,9 @@
 
 ## &#x1f4c8; My GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev3Nigerian&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev3Nigerian&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Faithful's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev3Nigerian&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Faithful's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev3Nigerian&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
