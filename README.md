@@ -9,11 +9,14 @@
 🧰 Toolbox
 
 <a href="https://cdnlogo.com/logo/nodejs-icon_39488.html"><img src="https://www.cdnlogo.com/logos/n/94/nodejs-icon.svg" height="50" width="50"></a>
-<a href="https://cdnlogo.com/logo/javascript_18196.html"><img src="https://www.cdnlogo.com/logos/j/44/javascript.svg"></a>
-<a href="https://cdnlogo.com/logo/html-5_8516.html"><img src="https://www.cdnlogo.com/logos/h/90/html-5.svg"></a>
-<a href="https://cdnlogo.com/logo/css_36679.html"><img src="https://www.cdnlogo.com/logos/c/18/css.svg"></a>
-<a href="https://cdnlogo.com/logo/bootstrap_39502.html"><img src="https://www.cdnlogo.com/logos/b/50/bootstrap.svg"></a>
-<a href="https://cdnlogo.com/logo/mysql_9525.html"><img src="https://www.cdnlogo.com/logos/m/10/mysql.svg"></a>
+<a href="https://cdnlogo.com/logo/javascript_18196.html"><img src="https://www.cdnlogo.com/logos/j/44/javascript.svg" height="50" width="50"></a>
+<a href="https://cdnlogo.com/logo/html-5_8516.html"><img src="https://www.cdnlogo.com/logos/h/90/html-5.svg" height="50" width="50"></a>
+<a href="https://cdnlogo.com/logo/css_36679.html"><img src="https://www.cdnlogo.com/logos/c/18/css.svg" height="50" width="50"></a>
+<a href="https://cdnlogo.com/logo/bootstrap_39502.html"><img src="https://www.cdnlogo.com/logos/b/50/bootstrap.svg" height="50" width="50"></a>
+<a href="https://cdnlogo.com/logo/solidity_63893.html"><img src="https://www.cdnlogo.com/logos/s/73/solidity.svg" height="50" width="50"></a>
+<a href="https://cdnlogo.com/logo/mysql_9525.html"><img src="https://www.cdnlogo.com/logos/m/10/mysql.svg" height="50" width="50"></a>
+<a href="https://cdnlogo.com/logo/microsoft-sql-server_808.html"><img src="https://www.cdnlogo.com/logos/m/21/microsoft-sql-server.svg" height="50" width="50"></a>
+<a href="https://cdnlogo.com/logo/mongodb_9555.html"><img src="https://www.cdnlogo.com/logos/m/25/mongodb.svg" height="50" width="50"></a>
 
 
 ---
