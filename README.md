@@ -16,7 +16,7 @@
 <a href="https://cdnlogo.com/logo/solidity_63893.html"><img src="https://www.cdnlogo.com/logos/s/73/solidity.svg" height="50" width="50"></a>
 <a href="https://cdnlogo.com/logo/mysql_9525.html"><img src="https://www.cdnlogo.com/logos/m/10/mysql.svg" height="50" width="50"></a>
 <a href="https://cdnlogo.com/logo/microsoft-sql-server_808.html"><img src="https://www.cdnlogo.com/logos/m/21/microsoft-sql-server.svg" height="50" width="50"></a>
-<a href="https://cdnlogo.com/logo/mongodb_9555.html"><img src="https://www.cdnlogo.com/logos/m/25/mongodb.svg" height="60" width="60"></a>
+<a href="https://cdnlogo.com/logo/mongodb_9555.html"><img src="https://www.cdnlogo.com/logos/m/25/mongodb.svg" height="60" width="50"></a>
 
 
 ---
