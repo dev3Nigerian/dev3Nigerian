@@ -1,44 +1,58 @@
-### Hi there 👋 I am Faithful Odigbo!
+<h1 align="center">Hi, I'm Faithful Odigbo 👋</h1>
 
-- 📫 How to reach me: ...
-![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/faithfulOdigbo)
-![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2FfaithfulOdigbo)
+<p align="center">
+  Backend engineer building reliable booking and commerce systems, and AI agents that stay grounded and auditable.
+</p>
 
----
-
-🧰 Toolbox
-
-<a href="https://cdnlogo.com/logo/nodejs-icon_39488.html"><img src="https://www.cdnlogo.com/logos/n/94/nodejs-icon.svg" height="50" width="50"></a>
-<a href="https://cdnlogo.com/logo/javascript_18196.html"><img src="https://www.cdnlogo.com/logos/j/44/javascript.svg" height="50" width="50"></a>
-<a href="https://cdnlogo.com/logo/html-5_8516.html"><img src="https://www.cdnlogo.com/logos/h/90/html-5.svg" height="50" width="50"></a>
-<a href="https://cdnlogo.com/logo/css_36679.html"><img src="https://www.cdnlogo.com/logos/c/18/css.svg" height="50" width="50"></a>
-<a href="https://cdnlogo.com/logo/bootstrap_39502.html"><img src="https://www.cdnlogo.com/logos/b/50/bootstrap.svg" height="50" width="50"></a>
-<a href="https://cdnlogo.com/logo/solidity_63893.html"><img src="https://www.cdnlogo.com/logos/s/73/solidity.svg" height="50" width="50"></a>
-<a href="https://cdnlogo.com/logo/mysql_9525.html"><img src="https://www.cdnlogo.com/logos/m/10/mysql.svg" height="50" width="50"></a>
-<a href="https://cdnlogo.com/logo/microsoft-sql-server_808.html"><img src="https://www.cdnlogo.com/logos/m/21/microsoft-sql-server.svg" height="50" width="50"></a>
-<a href="https://cdnlogo.com/logo/mongodb_9555.html"><img src="https://www.cdnlogo.com/logos/m/25/mongodb.svg" height="60" width="50"></a>
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/faithful-odigbo"><img src="https://img.shields.io/badge/LinkedIn-faithful--odigbo-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://twitter.com/faithfulOdigbo"><img src="https://img.shields.io/badge/X-@faithfulOdigbo-000000?logo=x&logoColor=white" alt="X"></a>
+  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-Get%20in%20touch-D14836?logo=gmail&logoColor=white" alt="Email"></a>
+</p>
 
 ---
 
-## &#x1f4c8; My GitHub Stats
+## About me
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev3Nigerian&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+- 🏢 Backend Engineer at **Lyncs Africa**, leading backend for a travel booking ecosystem and an e-commerce/B2B platform
+- 💳 Payment-critical systems: Moniepoint and WEMA Webpay integrations, safe-debit-and-reversal flows, exponential-backoff retries, and a multi-airline flight search engine
+- 📉 Cut payment failures by 60% and improved reliability for 100+ bookings a month
+- 🤖 Building AI tooling: RAG with cited sources, MCP servers, and agents with approval-gated actions
+- 🎓 MSc in AI Engineering at Quantic School of Business and Technology (in progress, expected 2027)
+- 📍 Lagos, Nigeria (GMT+1)
+- 💬 Ask me about: payment flows, backend architecture, microservices, RAG and MCP
 
-[![Faithful's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev3Nigerian&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+---
 
+## Featured projects
 
-<!--
-**dev3Nigerian/dev3Nigerian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+| Project | What it is | Stack |
+|---|---|---|
+| [**AgentHR**](https://agent-hr-f471.onrender.com/) | AI HR/People Ops copilot that retrieves cited handbook evidence before giving guidance, discovers tools via MCP, shows agent activity traces, and requires human confirmation for actions | RAG, Chroma, MCP |
+| [**Antspace**](https://antspace.online) | AI shopping and merchant platform with a wallet, per-purchase and daily spend limits, and approval above an auto-approval threshold (sandbox) | pgvector, PayPal Sandbox |
+| [**InsureFlow**](https://github.com/dev3Nigerian/InsureFlow) | WhatsApp-integrated CRM for insurance agents with AI-assisted message drafting and scheduled sends | Next.js, NestJS, FastAPI |
+| [**AI Growth Automation Engine**](https://github.com/dev3Nigerian/growth-automation-engine) | Lead discovery, profile scraping, AI lead scoring, and outreach generation | Node.js, TypeScript, Puppeteer, Ollama |
+| [**succint-whitepaper-mcp**](https://github.com/dev3Nigerian/succint-whitepaper-mcp) | MCP server built from an LLM architecture whitepaper | MCP |
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+## Toolbox
 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,ts,py,nestjs,fastapi,nextjs&perline=7" alt="Languages and frameworks" />
+</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,supabase&perline=5" alt="Databases" />
+</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,githubactions&perline=3" alt="Cloud and DevOps" />
+</p>
+
+---
+
+## GitHub stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=dev3Nigerian&show_icons=true&count_private=true&hide_border=true&theme=radical" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev3Nigerian&layout=compact&hide_border=true&theme=radical" alt="Top languages" />
+</p>
